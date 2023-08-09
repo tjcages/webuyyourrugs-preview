@@ -20,7 +20,7 @@ function Overlay() {
 createRoot(document.getElementById('root')).render(
   <>
     <App />
-    <Overlay />
-    <Logo style={{ position: 'absolute', bottom: 40, left: 40, width: 30 }} />
+    {/* <Overlay />
+    <Logo style={{ position: 'absolute', bottom: 40, left: 40, width: 30 }} /> */}
   </>
 )

@@ -10,7 +10,7 @@
     "@pmndrs/branding": "0.0.8",
     "@react-three/drei": "9.77.1",
     "@react-three/fiber": "8.9.1",
-    "@react-three/postprocessing": "2.9.2",
+    "@react-three/postprocessing": "^2.15.0",
     "@types/three": "0.146.0",
     "maath": "0.4.2",
     "react": "18.2.0",
@@ -18,7 +18,6 @@
     "react-scripts": "5.0.1",
     "three": "0.146.0"
   },
-  "devDependencies": {},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
